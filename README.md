@@ -25,11 +25,6 @@
 
 ## 📂 Featured Projects
 
-### 🌾 Crop Recommendation System
-Machine learning project that recommends suitable crops based on environmental and soil conditions.
-
-### 📊 Agricultural Analytics Dashboard
-Data visualization and trend analysis for agricultural datasets.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nitya-tech-new&show_icons=true)
@@ -44,9 +39,9 @@ Data visualization and trend analysis for agricultural datasets.
 - Build Production-Ready Projects
 
 ## 📫 Connect With Me
--📧 Email: your_email@gmail.com
--💼 LinkedIn: https://linkedin.com/in/your-profile
-- ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github): https://github.com/nitya-tech-new
+📧 Email: nityazijoo@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/nitya-zijoo/
+🐱 GitHub: https://github.com/nitya-tech-new
 
 ---
 ⭐ Always learning, building, and improving.
