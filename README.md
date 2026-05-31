@@ -32,11 +32,10 @@ Machine learning project that recommends suitable crops based on environmental a
 Data visualization and trend analysis for agricultural datasets.
 
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitya-tech-new&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitya-tech-new&layout=compact)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nitya-tech-new&show_icons=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nitya-tech-new&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=nitya-tech-new)
+![Profile Views](https://komarev.com/ghpvc/?username=nitya-tech-new)
 ## 🎯 2026 Goals
 
 - Secure a Software/ML Internship
@@ -45,8 +44,9 @@ Data visualization and trend analysis for agricultural datasets.
 - Build Production-Ready Projects
 
 ## 📫 Connect With Me
-
-- GitHub: https://github.com/nitya-tech-new
+-📧 Email: your_email@gmail.com
+-💼 LinkedIn: https://linkedin.com/in/your-profile
+- ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github): https://github.com/nitya-tech-new
 
 ---
 ⭐ Always learning, building, and improving.
