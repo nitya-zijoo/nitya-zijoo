@@ -39,6 +39,7 @@
 - Build Production-Ready Projects
 
 ## 📫 Connect With Me
+
 📧 Email: nityazijoo@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/nitya-zijoo/
 🐱 GitHub: https://github.com/nitya-tech-new
