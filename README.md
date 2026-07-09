@@ -1,48 +1,69 @@
-# Hi 👋, I'm Nitya
+<p align="center">
+  <a href="https://github.com/nitya-zijoo">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Nitya%20zijoo" alt="Hello! I&#39;m Nitya zijoo" />
+  </a>
+</p>
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=745&height=44&lines=Turning%20ideas%20into%20code%20and%20data%20into%20insights.;Dream.%20Design.%20Develop." alt="Typing headlines" />
+</p>
 
-🎓 B.Tech CSIT Student
+### 🚀 About Me
 
-💻 Passionate about:
-- Machine Learning
-- Data Analytics
-- Web Development
-- Open Source
+🔭 &nbsp;I'm currently working on **emotion detection chatbot**  
+🌱 &nbsp;I'm currently learning **Retrieval-Augmented Generation (RAG), LLMs &amp; LangChain**  
+👯 &nbsp;I'm looking to collaborate on **AI/ML, Open Source &amp; Data Science Projects**  
+🤔 &nbsp;I'm looking for help with **MLOps, LLM Deployment &amp; Scalable AI Applications**  
+💬 &nbsp;Ask me about **Python, Machine Learning, Data Analysis, SQL &amp; Streamlit**  
+😄 &nbsp;Pronouns: **she/her**  
+⚡ &nbsp;Fun fact: **I believe every bug is just an unsolved puzzle. 🧩**
 
-🌱 Currently Learning:
-- Python
-- SQL
-- Data Science
-- Git & GitHub
+### 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+### 🔗 Connect With Me
 
-## 📂 Featured Projects
+<p align="left">
+  <a href="https://www.linkedin.com/in/nitya-zijoo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nityazijoo@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+### 📊 GitHub Stats
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nitya-tech-new&show_icons=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nitya-tech-new&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=nitya-tech-new)
-![Profile Views](https://komarev.com/ghpvc/?username=nitya-tech-new)
-## 🎯 2026 Goals
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=nitya-zijoo&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=nitya-zijoo&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-- Secure a Software/ML Internship
-- Contribute to Open Source
-- Strengthen DSA Skills
-- Build Production-Ready Projects
+### 📈 Contribution Graph
 
-## 📫 Connect With Me
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitya-zijoo&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-📧 Email: nityazijoo@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/nitya-zijoo/
-🐱 GitHub: https://github.com/nitya-tech-new
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-⭐ Always learning, building, and improving.
+<p align="center"><i>⭐️ From <a href="https://github.com/nitya-zijoo">nitya-zijoo</a></i></p>
