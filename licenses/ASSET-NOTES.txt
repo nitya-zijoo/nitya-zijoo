@@ -1,0 +1,4 @@
+Character assets:
+- id.png: exact portrait PNG supplied by Nitya in this conversation.
+- right_pointing.png: exact right-pointing PNG supplied by Nitya in this conversation.
+No face redraw or silhouette reconstruction was performed.

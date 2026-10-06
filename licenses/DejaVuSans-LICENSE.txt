@@ -1,0 +1,6 @@
+DejaVu Fonts
+Copyright (c) 2003-2026, DejaVu Fonts contributors.
+
+Fonts are released under the Bitstream Vera and DejaVu Fonts licenses.
+The full license text is available at:
+https://dejavu-fonts.github.io/License.html
